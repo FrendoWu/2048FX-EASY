@@ -18,7 +18,7 @@ javac -d bin -sourcepath src src/org/frendo/game2048/Main.java
 java -cp bin org.frendo.game2048.Main
 ```
 
-##Final
+## Final
 
 
 <div align=center><img src="2048.png" height = "300px" alt="sample" /></div>
